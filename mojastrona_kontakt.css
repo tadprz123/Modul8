@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+    background: grey;
+}
+h2 {
+    color: blue;
+    font-size: xx-large;
+    font-weight: bold;
+}
+h3 {
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
